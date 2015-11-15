@@ -1,3 +1,11 @@
+# PyCharm
+.idea
+*.idea
+
+# Sqlite
+*.sqlite3
+*.sqlite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
